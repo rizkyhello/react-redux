@@ -1,0 +1,7 @@
+HOW TO INSTALL
+
+1. REDUX
+    - https://redux.js.org/introduction/getting-started
+2. REDUX-PERSIST
+    - https://www.npmjs.com/package/redux-persist
+3. 
